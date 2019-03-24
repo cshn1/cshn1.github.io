@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /hacklink.html
-Allow: /about.html
-Disallow: /
-Sitemap: http://inj3ct.info/sitemap.xml
